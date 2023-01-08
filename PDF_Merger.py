@@ -1,4 +1,3 @@
-from ast import Break
 from logging import root
 import os
 import PySimpleGUI as sg
