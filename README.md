@@ -8,12 +8,12 @@ Download: [PDF_Merger.exe](https://www.dropbox.com/s/15yj32zpm708kbh/PDF_Merger.
 
 Welcome to Perky PDF!
 
-Features: Batch PDF merging/flatenning/conversion and batch printing
+Features: Batch PDF merging/flatenning/conversion and batch printing.
 
 How to set up: change your default printer as needed.
 Non-PDF Printing: Change your default printer to a physical printer of your choice.
 PDF Conversion: Change your default printer to a virtual printer -- Microsoft print to PDF.
 
-Press enter after you save a file to a PDF to continue.
+Tip: Press enter after you save a file to a PDF to continue to the next file.
 
-How to use: select your document(s) and click okay
+How to use: select your document(s) and click okay.
