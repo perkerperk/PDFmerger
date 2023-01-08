@@ -42,7 +42,7 @@ def printPDF(pdf_files):
         
 #due to an issue with the previous merger function unable to add the AcroForm node to the merged file hence all the fields are empty in the merged file, 
 #the borrowed solution: https://stackoverflow.com/questions/57008782/pypdf2-pdffilemerger-loosing-pdf-module-in-merged-file is temporarily being used to add the Acroform to the merged file
-#Currently working on another way to add the acroform. Credits for this portion of code: A_E.
+#Currently working on another way to add the acroform. Credits for this funtion: A_E.
 def mergPDF(pdf_files):
   merger = PdfWriter()
   num = 0
