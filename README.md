@@ -2,7 +2,7 @@
 #download the PDF_Merger.exe to use it. It might be detected as a false positive by your antivirus so turn it off temporarily.
 The latest version of PDF_Merger.exe is too large to be uploaded on github.
 
-Download: [PDF_Merger.exe](https://www.dropbox.com/s/w6mjc05olg92bq1/PDF_Merger.exe?dl=0)
+Download: [PDF_Merger.exe](https://www.dropbox.com/s/15yj32zpm708kbh/PDF_Merger.exe?dl=0)
 
 
 Welcome to Perky PDF!
