@@ -17,5 +17,5 @@ PDF Conversion: Change your default printer to a virtual printer -- Microsoft pr
 Tip: Press enter after you save a file to a PDF to continue to the next file.
 
 How to use: select your document(s) and click okay.
-![alt text](https://imgur.com/a/48NRVqe)
+![application](https://imgur.com/a/48NRVqe)
 
